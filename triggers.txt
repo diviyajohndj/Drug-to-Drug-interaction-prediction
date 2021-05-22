@@ -1,0 +1,127 @@
+Accident
+ACLS
+Acute renal failure
+Agitation
+AKI
+Allergic
+Allergy
+AMS
+ARF
+Arrest
+Bleed
+Blood
+Bradycardia
+Bradicardic
+Blocking
+C diff
+Changes
+Code
+Coma
+Complication
+Concern
+Condition C
+Contrast Nephropathy
+Control
+d/c
+D50
+Dc’d
+Decrease
+Deficiency
+Delirium
+Desaturation
+Diarrhea
+Discontinue
+DKA
+Drop
+Drowsy
+Drug fever
+Drug-induced
+Due to
+DVT
+Effect of
+Elevated
+Epistaxis
+Error
+ETOH abuse
+FFP
+Fluid resuscitation
+Glucagon
+Hallucinations
+Held
+Hematoma
+Hemoptysis
+High INR
+HIT
+Hives
+Hold
+Hyperglycemia
+Hypernatremia
+Hypoglycemia
+Hypotension
+Hypotensive
+Hypoxemia
+Hypoxia
+Hypoxic
+Iatrogenic
+Incorrect
+Ingestion
+Injury
+Interaction
+Intubate
+Intubation
+Lethargic
+Low
+Marijuana
+Melena
+Mental status
+Metabolic acidosis
+NAC
+Narcan
+Non-compliance
+Noncompliance
+OD
+Opiates
+Overdose
+Overload
+Oversedation
+Pancytopenia
+Polysubstance
+Positive
+PRBC
+Prolonged QTc
+Pulmonary Fibrosis
+Rash
+Rebound
+Related
+Renal Disease
+Renal Failure
+Respiratory Distress
+Respiratory Failure
+Rhadomyolysis
+Rise
+Rising
+SAH
+Secondary to
+Sedated
+Sedating Medications
+Seizure
+Serotonin Syndrome
+Shortness of breath
+SOB
+Somnolent
+Stop
+Subtherapeutic
+Suicide attempt
+Supratherapeutic
+SVT
+Switch
+Tamponade
+Temporal
+Thrombocytopenia
+Toxic
+Transfusion
+UGIB
+Unresponsive
+Vit K
+Vitamin K
+Withdrawal
